@@ -1,3 +1,43 @@
-body{background-color: steelblue;
+*{
+    margin: 0;
+    padding: 0;
+
+
 }
-img{width: 50%;}
+
+.cabeçalho{
+    background-color: aqua;
+    color: black;
+    display: flex;
+    justify-content: space-around;
+    padding: 24px 0;
+}
+
+
+.cabeçalho-imagem{
+    width: 25%;
+}
+
+
+.cabeçalho-lista-item{
+    display: inline-block;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
