@@ -24,8 +24,12 @@
 
 }
 
+.escola-imagem{width: 25%;}
 
-
+.escola{
+    display: flex;
+    background-image: linear-gradient(aqua, darkblue);
+}
 
 
 
