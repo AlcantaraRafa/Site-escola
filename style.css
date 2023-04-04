@@ -11,15 +11,17 @@
     display: flex;
     justify-content: space-around;
     padding: 24px 0;
+    align-items: center;
 }
 
 
 .cabeçalho-imagem{
     width: 25%;
+    
 }
 
 
-.cabeçalho-lista-item{
+cabeçalho-lista-item{
     display: inline-block;
 
 }
@@ -28,12 +30,19 @@
 
 .escola{
     display: flex;
-    background-image: linear-gradient(aqua, darkblue);
+    color: white;
+    background-image: linear-gradient( aqua, rgb(255, 0, 170) );
+    justify-content: center;
+    align-items: center;
 }
 
+.escola-div-conteudo{
+    width: 35%;
+}
 
-
-
+.escola-titulo{
+    padding: 24px 0;
+}
 
 
 
